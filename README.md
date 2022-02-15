@@ -7,8 +7,8 @@
 * Скомпиленный _"hello_world!"_ в c++
 * Скомпиленный _"hello_world!"_ в java
 * Файл .py _"hello_world!"_ в python
-* Исходный код_"hello_world!"_ на c++
-* Исходный код_"hello_world!"_ на java
+* Исходный код _"hello_world!"_ на c++
+* Исходный код _"hello_world!"_ на java
 
 ### Папка scripts содержит:
 
